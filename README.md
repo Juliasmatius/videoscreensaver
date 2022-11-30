@@ -10,7 +10,8 @@ Pyautogui https://pyautogui.readthedocs.io/en/latest/install.html<br />
 # Install
 
 Step 1. Install dependencies<br />
-Step 2. Install the program<br />
+Step 2. Download the program from releases tab<br />
+Step 2,5. Install the app <br />
 Step 3. Place a video.mp4 into the install location.<br />
 Step 4. Right click the "screensaver.scr" and select install<br /><br />
 Step 5. In the popup just press ok.<br />
